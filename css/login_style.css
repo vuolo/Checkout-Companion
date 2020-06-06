@@ -1,0 +1,127 @@
+.LOGIN_Autofill_Login_Class {
+	position: absolute;
+	width: 400px;
+	height: 600px;
+	background: linear-gradient(180deg, rgba(132,91,133,1) 0%, rgba(188,127,89,1) 100%);
+	overflow: hidden;
+	--web-view-name: Autofill Login;
+	--web-view-id: Autofill_Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.LOGIN_Foreground_Class {
+	position: absolute;
+	width: 918px;
+	height: 516px;
+	left: -518px;
+	top: 84px;
+	overflow: visible;
+}
+.LOGIN_Resell_Monster_Class {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 85px;
+	top: 32px;
+	overflow: visible;
+	width: 300px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.LOGIN_Autofill_Class {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 149px;
+	top: 77px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.LOGIN_Resell_Monster_Logo_Class {
+	position: absolute;
+	width: 73px;
+	height: 73px;
+	left: 12px;
+	top: 13px;
+	overflow: visible;
+}
+.LOGIN_Group_227_Class {
+	position: absolute;
+	width: 302px;
+	height: 136px;
+	left: 49px;
+	top: 208px;
+	overflow: visible;
+}
+.LOGIN_You_are_not_currently_logged_i_Class {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.LOGIN_Group_226_Class:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.LOGIN_Group_226_Class {
+	position: absolute;
+	width: 226px;
+	height: 37px;
+	left: 38px;
+	top: 99px;
+	overflow: visible;
+}
+.LOGIN_Category_Bar_Rectangle_Class {
+	opacity: 0.9;
+}
+.LOGIN_Category_Bar_Rectangle {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+}
+.LOGIN_Click_Here_to_Login_Class {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 55px;
+	top: 9px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(29,29,29,1);
+}
+.LOGIN_Discord_Logo_Class {
+	position: absolute;
+	width: 27px;
+	height: 20px;
+	left: 20px;
+	top: 8px;
+	overflow: visible;
+}
